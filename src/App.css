@@ -1,0 +1,9 @@
+.App{
+    position: relative;
+    
+}
+.App-Overlay{
+    position: relative;
+    filter: blur(20px);
+}
+

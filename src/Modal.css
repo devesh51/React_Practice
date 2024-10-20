@@ -1,0 +1,10 @@
+.ModalOverlay{
+    border: 1px solid black;
+    margin: 2px 2px;
+    width: 200px;
+    height: 100px;
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    background-color: beige;
+}
